@@ -1,6 +1,7 @@
 body{
 	background-color: black;
 	font-family: "Crimson Text";
+	background-image: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/860950/55a82ea7e41681d44f6fdeb7025207d789729d4b.jpg");
 }
 
 .home-description{
@@ -58,10 +59,10 @@ body{
 			
 		}
 }
-.img-rabbit{
+.img-elioking1{
 	width: 100%;
 }
-.btn-rabbit{
+.btn-elioking1{
 	background-color: #fff;
 	color: #111;
 	font-style: italic;
@@ -73,7 +74,7 @@ body{
 	font-size: 13px;
 	}
 
-.btn-rabbit:hover{
+.btn-elioking1:hover{
 	color: #fff;
 	background-color: #bb9e7d;
 	border-color: #bb9e7d;}
