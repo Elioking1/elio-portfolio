@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: elioking1.netlify.app
-Token: 61ef27c4f018c2630043ae6f4f179a61194cf7643af023fde5ff1c0660c19136
