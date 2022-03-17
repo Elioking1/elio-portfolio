@@ -1,10 +1,12 @@
 body{
 	background-color: black;
 	font-family: "Crimson Text";
-	background-image: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/860950/55a82ea7e41681d44f6fdeb7025207d789729d4b.jpg");
+	background-image: url("https://wallsbazar.com/wp-content/uploads/2021/08/Ninja-Wallpaper.jpg");
 }
 
 .home-description{
+	background-color: grey;
+	background-size: auto;
 	color: rgb(137, 173, 5);
 	font-style: italic;
 	font-weight: 600;
